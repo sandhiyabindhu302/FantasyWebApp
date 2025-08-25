@@ -23,9 +23,9 @@ COPY --from=build /app/publish .
 
 # Set environment variables
 ENV ASPNETCORE_ENVIRONMENT=Development
-ENV ASPNETCORE_URLS=http://+:5000
+ENV ASPNETCORE_URLS=http://+:88
 
-EXPOSE 5000
+EXPOSE 88
 
 # Run the application
 ENTRYPOINT ["dotnet", "FantasyWebApp.dll"]
