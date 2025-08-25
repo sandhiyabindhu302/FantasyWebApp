@@ -31,3 +31,4 @@ D:\CI CD Pipelines\FantasyWebApp\FantasyWebApp\obj\Debug\net8.0\refint\FantasyWe
 D:\CI CD Pipelines\FantasyWebApp\FantasyWebApp\obj\Debug\net8.0\FantasyWebApp.pdb
 D:\CI CD Pipelines\FantasyWebApp\FantasyWebApp\obj\Debug\net8.0\FantasyWebApp.genruntimeconfig.cache
 D:\CI CD Pipelines\FantasyWebApp\FantasyWebApp\obj\Debug\net8.0\ref\FantasyWebApp.dll
+D:\CI CD Pipelines\FantasyWebApp\FantasyWebApp\obj\Debug\net8.0\FantasyWebApp.sourcelink.json
