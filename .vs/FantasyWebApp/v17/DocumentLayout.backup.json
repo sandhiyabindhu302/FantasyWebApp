@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "FantasyWebApp\\Dockerfile",
               "ToolTip": "D:\\CI CD Pipelines\\FantasyWebApp\\FantasyWebApp\\Dockerfile",
               "RelativeToolTip": "FantasyWebApp\\Dockerfile",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-25T06:33:54.339Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "WebFantasy\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:18:14.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:18:14.805Z"
             },
             {
               "$type": "Document",
