@@ -1,0 +1,1 @@
+SR=D:\CI CD Pipelines\FantasyWebApp\WebFantasy\WebFantasy.csproj¢net8.0òCSharp12

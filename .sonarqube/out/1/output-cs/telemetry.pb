@@ -1,0 +1,1 @@
+YRCD:\CI CD Pipelines\FantasyWebApp\FantasyWebApp\FantasyWebApp.csproj¢net8.0òCSharp12

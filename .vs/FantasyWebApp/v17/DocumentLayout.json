@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CI CD Pipelines\\FantasyWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D155550-4679-40A7-8476-33F91EE3DA41}|FantasyWebApp\\FantasyWebApp.csproj|d:\\ci cd pipelines\\fantasywebapp\\fantasywebapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D155550-4679-40A7-8476-33F91EE3DA41}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66F58D1D-19BC-474F-87EA-912B97455A7F}|WebFantasy\\WebFantasy.csproj|d:\\ci cd pipelines\\fantasywebapp\\webfantasy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66F58D1D-19BC-474F-87EA-912B97455A7F}|WebFantasy\\WebFantasy.csproj|solutionrelative:webfantasy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 307,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\CI CD Pipelines\\FantasyWebApp\\FantasyWebApp\\Dockerfile",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Dockerfile",
+              "ToolTip": "D:\\CI CD Pipelines\\FantasyWebApp\\FantasyWebApp\\Dockerfile",
+              "RelativeToolTip": "FantasyWebApp\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:33:54.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CI CD Pipelines\\FantasyWebApp\\FantasyWebApp\\Program.cs",
               "RelativeDocumentMoniker": "FantasyWebApp\\Program.cs",
@@ -46,25 +63,24 @@
               "RelativeToolTip": "FantasyWebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:19:55.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:19:55.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\CI CD Pipelines\\FantasyWebApp\\WebFantasy\\UnitTest1.cs",
               "RelativeDocumentMoniker": "WebFantasy\\UnitTest1.cs",
               "ToolTip": "D:\\CI CD Pipelines\\FantasyWebApp\\WebFantasy\\UnitTest1.cs",
               "RelativeToolTip": "WebFantasy\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T05:18:14.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\CI CD Pipelines\\FantasyWebApp\\FantasyWebApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Index.cshtml",
@@ -72,8 +88,7 @@
               "RelativeToolTip": "FantasyWebApp\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T04:32:02.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T04:32:02.138Z"
             }
           ]
         }
